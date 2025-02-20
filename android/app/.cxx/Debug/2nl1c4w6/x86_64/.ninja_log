@@ -1,0 +1,5 @@
+# ninja log v5
+5	71	0	D:/Work/Project_Example/split-image/split_image/android/app/.cxx/Debug/2nl1c4w6/x86_64/CMakeFiles/cmake.verify_globs	35718dfcd47a6adf
+1	7189	7617636019147226	CMakeFiles/appmodules.dir/D_/Work/Project_Example/split-image/split_image/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	63a8145ff3b00ede
+485	8567	7617636032869189	CMakeFiles/appmodules.dir/OnLoad.cpp.o	cdfbe827eecc0dc9
+8567	9626	7617636043611053	D:/Work/Project_Example/split-image/split_image/android/app/build/intermediates/cxx/Debug/2nl1c4w6/obj/x86_64/libappmodules.so	58d3a35e90a16efd
